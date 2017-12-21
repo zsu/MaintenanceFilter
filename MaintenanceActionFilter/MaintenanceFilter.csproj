@@ -1,0 +1,24 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.0</TargetFramework>
+    <PackageId>MaintenanceFilter</PackageId>
+    <PackageVersion>1.0.0</PackageVersion>
+    <Authors>Zhicheng Su</Authors>
+    <Title>MaintenanceFilter</Title>
+    <Description>An asp.net core action filter library for maintenance message handling.</Description>
+    <PackageLicenseUrl>http://www.opensource.org/licenses/mit-license.php</PackageLicenseUrl>
+    <PackageProjectUrl>https://github.com/zsu/MaintenanceFilter</PackageProjectUrl>
+    <PackageRequireLicenseAcceptance>false</PackageRequireLicenseAcceptance>
+    <Copyright>Copyright 2017 Zhicheng Su</Copyright>
+    <PackageTags>asp.net core, action filter, site maintenance</PackageTags>
+    <Version>1.0.0</Version>
+    <RepositoryUrl>https://github.com/zsu/MaintenanceFilter</RepositoryUrl>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.Mvc.Core" Version="2.0.1" />
+    <PackageReference Include="SessionMessage.Core" Version="1.0.1" />
+  </ItemGroup>
+
+</Project>
