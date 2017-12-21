@@ -31,7 +31,7 @@ Install-Package MaintenanceFilter
 ```
   * Disable the filter on maintenance controller:
 ```js
-		[Maintenance(Disabled = true)]
+	[Maintenance(Disabled = true)]
 ```
   * Setup SessionMessage: Please refer to https://github.com/zsu/SessionMessage
 ```xml
