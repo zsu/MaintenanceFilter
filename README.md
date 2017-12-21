@@ -19,15 +19,15 @@ Install-Package MaintenanceFilter
 ```
   * Register MaintenanceFilter and SessionMessage in Startup.cs:
 ```js
-            services.AddSingleton<IMaintenanceSettingProvider, MaintenanceSettingProvider>();
-            services.AddMvc(options => {
-                options.Filters.Add(typeof(MaintenanceActionFilter));
-                options.Filters.Add(typeof(AjaxMessagesActionFilter));
-            });
-            services.AddSessionMessage();
+    services.AddSingleton<IMaintenanceSettingProvider, MaintenanceSettingProvider>();
+    services.AddMvc(options => {
+	options.Filters.Add(typeof(MaintenanceActionFilter));
+	options.Filters.Add(typeof(AjaxMessagesActionFilter));
+    });
+    services.AddSessionMessage();
 ```            
 ```js            
-            app.UseSessionMessage();
+    app.UseSessionMessage();
 ```
   * Disable the filter on maintenance controller:
 ```js
@@ -35,9 +35,9 @@ Install-Package MaintenanceFilter
 ```
   * Setup SessionMessage: Please refer to https://github.com/zsu/SessionMessage
 ```xml
-  * Add @addTagHelper *, SessionMessage.UI to _ViewImports.cshtml
-  * Add reference to jquery/jqury UI/toastr;
-  * Insert <sessionmessage /> after reference to jquery/jqury UI/toastr;
+  Add @addTagHelper *, SessionMessage.UI to _ViewImports.cshtml
+  Add reference to jquery/jqury UI/toastr;
+  Insert <sessionmessage /> after reference to jquery/jqury UI/toastr;
 ```
 
 # License
