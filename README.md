@@ -23,7 +23,7 @@ Install-Package MaintenanceFilter
     services.AddMvc(options => {
 	options.Filters.Add(typeof(MaintenanceActionFilter));
 	options.Filters.Add(typeof(AjaxMessagesActionFilter));
-    });
+    }).AddApplicationPart(typeof(MaintenanceFilterController).Assembly).AddControllersAsServices();;
     services.AddSessionMessage();
 ```            
 ```js            
