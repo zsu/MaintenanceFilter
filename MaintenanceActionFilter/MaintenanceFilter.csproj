@@ -1,9 +1,9 @@
-<Project Sdk="Microsoft.NET.Sdk">
+﻿<Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
-    <TargetFramework>netcoreapp2.0</TargetFramework>
+    <TargetFramework>netstandard2.0</TargetFramework>
     <PackageId>MaintenanceFilter</PackageId>
-    <PackageVersion>1.0.1</PackageVersion>
+    <PackageVersion>1.0.2</PackageVersion>
     <Authors>Zhicheng Su</Authors>
     <Title>MaintenanceFilter</Title>
     <Description>An asp.net core action filter library for maintenance message handling.</Description>
@@ -18,7 +18,7 @@
 
   <ItemGroup>
     <PackageReference Include="Microsoft.AspNetCore.Mvc.Core" Version="2.0.1" />
-    <PackageReference Include="SessionMessage.Core" Version="1.0.3" />
+    <PackageReference Include="SessionMessage.Core" Version="1.0.5" />
   </ItemGroup>
 
 </Project>
