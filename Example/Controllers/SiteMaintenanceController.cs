@@ -8,7 +8,7 @@ using Microsoft.AspNetCore.Mvc;
 namespace Example.Controllers
 {
     [Maintenance(Disabled =true)]
-    public class MaintenanceController : Controller
+    public class SiteMaintenanceController : Controller
     {
         public IActionResult Index()
         {

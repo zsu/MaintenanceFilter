@@ -21,7 +21,7 @@ namespace Example
 
         public string GetMaintenanceUrl(HttpRequest request)
         {
-            string fullyQualifiedUrl = string.Format("{0}://{1}/Maintenance",request.Scheme,request.Host);
+            string fullyQualifiedUrl = string.Format("{0}://{1}/SiteMaintenance",request.Scheme,request.Host);
             return fullyQualifiedUrl;
         }
 
