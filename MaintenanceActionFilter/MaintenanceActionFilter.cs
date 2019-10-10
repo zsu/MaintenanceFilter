@@ -57,13 +57,13 @@ namespace MaintenanceFilter
                         var difference = (startTime - DateTime.UtcNow);
                         if (difference.TotalSeconds < warningLead)
                         {
-                            string baseUrl = string.Format("{0}://{1}{2}", filterContext.HttpContext.Request.Scheme, filterContext.HttpContext.Request.Host, filterContext.HttpContext.Request.PathBase);
-                            string script = @"$.ajax({{
-                    url: '{0}/api/MaintenanceFilter/MarkShowed',
-                    method: ""post""
-                        }}); ";
-                            _sessionMessageManager.SetMessage(MessageType.Warning, MessageBehaviors.Modal, maintenanceWarningMessage, KeyMaintenanceWarningMessage, string.Format(script, baseUrl));
-                            //filterContext.HttpContext.Response.Cookies.Append(KeyMaintenanceWarningCookie, "1", new CookieOptions { HttpOnly = true });
+                            //string baseUrl = string.Format("{0}://{1}{2}", filterContext.HttpContext.Request.Scheme, filterContext.HttpContext.Request.Host, filterContext.HttpContext.Request.PathBase);
+                            //        string script = @"$.ajax({{
+                            //url: '{0}/api/MaintenanceFilter/MarkShowed',
+                            //method: ""post""
+                            //    }}); ";
+                            _sessionMessageManager.SetMessage(MessageType.Warning, MessageBehaviors.Modal, maintenanceWarningMessage, KeyMaintenanceWarningMessage);//, string.Format(script, baseUrl));
+                            filterContext.HttpContext.Response.Cookies.Append(KeyMaintenanceWarningCookie, "1", new CookieOptions { HttpOnly = true });
                         }
                     }
                 }
