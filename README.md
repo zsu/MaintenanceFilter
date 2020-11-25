@@ -1,3 +1,6 @@
+[![NuGet](https://img.shields.io/nuget/v/MaintenanceFilter.svg)](https://www.nuget.org/packages/MaintenanceFilter)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+
 # What is MaintenanceFilter
 
 An asp.net core action filter library for maintenance message handling.
