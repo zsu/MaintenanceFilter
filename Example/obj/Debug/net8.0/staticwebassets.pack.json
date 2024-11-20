@@ -1,0 +1,649 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Projects\\Home\\MaintenanceFilter\\Example\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Projects\\Home\\MaintenanceFilter\\Example\\wwwroot\\css\\site.min.css",
+      "PackagePath": "staticwebassets\\css\\site.min.css"
+    },
+    {
+      "Id": "C:\\Projects\\Home\\MaintenanceFilter\\Example\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Projects\\Home\\MaintenanceFilter\\Example\\wwwroot\\images\\banner1.svg",
+      "PackagePath": "staticwebassets\\images\\banner1.svg"
+    },
+    {
+      "Id": "C:\\Projects\\Home\\MaintenanceFilter\\Example\\wwwroot\\images\\banner2.svg",
+      "PackagePath": "staticwebassets\\images\\banner2.svg"
+    },
+    {
+      "Id": "C:\\Projects\\Home\\MaintenanceFilter\\Example\\wwwroot\\images\\banner3.svg",
+      "PackagePath": "staticwebassets\\images\\banner3.svg"
+    },
+    {
+      "Id": "C:\\Projects\\Home\\MaintenanceFilter\\Example\\wwwroot\\images\\banner4.svg",
+      "PackagePath": "staticwebassets\\images\\banner4.svg"
+    },
+    {
+      "Id": "C:\\Projects\\Home\\MaintenanceFilter\\Example\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Projects\\Home\\MaintenanceFilter\\Example\\wwwroot\\js\\site.min.js",
+      "PackagePath": "staticwebassets\\js\\site.min.js"
+    },
+    {
+      "Id": "C:\\Projects\\Home\\MaintenanceFilter\\Example\\wwwroot\\lib\\bootstrap\\.bower.json",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\.bower.json"
+    },
+    {
+      "Id": "C:\\Projects\\Home\\MaintenanceFilter\\Example\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Projects\\Home\\MaintenanceFilter\\Example\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-theme.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-theme.css"
+    },
+    {
+      "Id": "C:\\Projects\\Home\\MaintenanceFilter\\Example\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-theme.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-theme.css.map"
+    },
+    {
+      "Id": "C:\\Projects\\Home\\MaintenanceFilter\\Example\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-theme.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-theme.min.css"
+    },
+    {
+      "Id": "C:\\Projects\\Home\\MaintenanceFilter\\Example\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-theme.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-theme.min.css.map"
+    },
+    {
+      "Id": "C:\\Projects\\Home\\MaintenanceFilter\\Example\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Projects\\Home\\MaintenanceFilter\\Example\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Projects\\Home\\MaintenanceFilter\\Example\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Projects\\Home\\MaintenanceFilter\\Example\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Projects\\Home\\MaintenanceFilter\\Example\\wwwroot\\lib\\bootstrap\\dist\\fonts\\glyphicons-halflings-regular.eot",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\fonts\\glyphicons-halflings-regular.eot"
+    },
+    {
+      "Id": "C:\\Projects\\Home\\MaintenanceFilter\\Example\\wwwroot\\lib\\bootstrap\\dist\\fonts\\glyphicons-halflings-regular.svg",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\fonts\\glyphicons-halflings-regular.svg"
+    },
+    {
+      "Id": "C:\\Projects\\Home\\MaintenanceFilter\\Example\\wwwroot\\lib\\bootstrap\\dist\\fonts\\glyphicons-halflings-regular.ttf",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\fonts\\glyphicons-halflings-regular.ttf"
+    },
+    {
+      "Id": "C:\\Projects\\Home\\MaintenanceFilter\\Example\\wwwroot\\lib\\bootstrap\\dist\\fonts\\glyphicons-halflings-regular.woff",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\fonts\\glyphicons-halflings-regular.woff"
+    },
+    {
+      "Id": "C:\\Projects\\Home\\MaintenanceFilter\\Example\\wwwroot\\lib\\bootstrap\\dist\\fonts\\glyphicons-halflings-regular.woff2",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\fonts\\glyphicons-halflings-regular.woff2"
+    },
+    {
+      "Id": "C:\\Projects\\Home\\MaintenanceFilter\\Example\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Projects\\Home\\MaintenanceFilter\\Example\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Projects\\Home\\MaintenanceFilter\\Example\\wwwroot\\lib\\bootstrap\\dist\\js\\npm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\npm.js"
+    },
+    {
+      "Id": "C:\\Projects\\Home\\MaintenanceFilter\\Example\\wwwroot\\lib\\jquery-validation-unobtrusive\\.bower.json",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\.bower.json"
+    },
+    {
+      "Id": "C:\\Projects\\Home\\MaintenanceFilter\\Example\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Projects\\Home\\MaintenanceFilter\\Example\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Projects\\Home\\MaintenanceFilter\\Example\\wwwroot\\lib\\jquery-validation\\.bower.json",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\.bower.json"
+    },
+    {
+      "Id": "C:\\Projects\\Home\\MaintenanceFilter\\Example\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Projects\\Home\\MaintenanceFilter\\Example\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Projects\\Home\\MaintenanceFilter\\Example\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Projects\\Home\\MaintenanceFilter\\Example\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Projects\\Home\\MaintenanceFilter\\Example\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Projects\\Home\\MaintenanceFilter\\Example\\wwwroot\\lib\\jquery\\.bower.json",
+      "PackagePath": "staticwebassets\\lib\\jquery\\.bower.json"
+    },
+    {
+      "Id": "C:\\Projects\\Home\\MaintenanceFilter\\Example\\wwwroot\\lib\\jquery\\AUTHORS.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\AUTHORS.txt"
+    },
+    {
+      "Id": "C:\\Projects\\Home\\MaintenanceFilter\\Example\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Projects\\Home\\MaintenanceFilter\\Example\\wwwroot\\lib\\jquery\\README.md",
+      "PackagePath": "staticwebassets\\lib\\jquery\\README.md"
+    },
+    {
+      "Id": "C:\\Projects\\Home\\MaintenanceFilter\\Example\\wwwroot\\lib\\jquery\\bower.json",
+      "PackagePath": "staticwebassets\\lib\\jquery\\bower.json"
+    },
+    {
+      "Id": "C:\\Projects\\Home\\MaintenanceFilter\\Example\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Projects\\Home\\MaintenanceFilter\\Example\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Projects\\Home\\MaintenanceFilter\\Example\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\Projects\\Home\\MaintenanceFilter\\Example\\wwwroot\\lib\\jquery\\external\\sizzle\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\external\\sizzle\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Projects\\Home\\MaintenanceFilter\\Example\\wwwroot\\lib\\jquery\\external\\sizzle\\dist\\sizzle.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\external\\sizzle\\dist\\sizzle.js"
+    },
+    {
+      "Id": "C:\\Projects\\Home\\MaintenanceFilter\\Example\\wwwroot\\lib\\jquery\\external\\sizzle\\dist\\sizzle.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\external\\sizzle\\dist\\sizzle.min.js"
+    },
+    {
+      "Id": "C:\\Projects\\Home\\MaintenanceFilter\\Example\\wwwroot\\lib\\jquery\\external\\sizzle\\dist\\sizzle.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\external\\sizzle\\dist\\sizzle.min.map"
+    },
+    {
+      "Id": "C:\\Projects\\Home\\MaintenanceFilter\\Example\\wwwroot\\lib\\jquery\\src\\.jshintrc",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\.jshintrc"
+    },
+    {
+      "Id": "C:\\Projects\\Home\\MaintenanceFilter\\Example\\wwwroot\\lib\\jquery\\src\\ajax.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\ajax.js"
+    },
+    {
+      "Id": "C:\\Projects\\Home\\MaintenanceFilter\\Example\\wwwroot\\lib\\jquery\\src\\ajax\\jsonp.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\ajax\\jsonp.js"
+    },
+    {
+      "Id": "C:\\Projects\\Home\\MaintenanceFilter\\Example\\wwwroot\\lib\\jquery\\src\\ajax\\load.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\ajax\\load.js"
+    },
+    {
+      "Id": "C:\\Projects\\Home\\MaintenanceFilter\\Example\\wwwroot\\lib\\jquery\\src\\ajax\\parseJSON.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\ajax\\parseJSON.js"
+    },
+    {
+      "Id": "C:\\Projects\\Home\\MaintenanceFilter\\Example\\wwwroot\\lib\\jquery\\src\\ajax\\parseXML.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\ajax\\parseXML.js"
+    },
+    {
+      "Id": "C:\\Projects\\Home\\MaintenanceFilter\\Example\\wwwroot\\lib\\jquery\\src\\ajax\\script.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\ajax\\script.js"
+    },
+    {
+      "Id": "C:\\Projects\\Home\\MaintenanceFilter\\Example\\wwwroot\\lib\\jquery\\src\\ajax\\var\\location.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\ajax\\var\\location.js"
+    },
+    {
+      "Id": "C:\\Projects\\Home\\MaintenanceFilter\\Example\\wwwroot\\lib\\jquery\\src\\ajax\\var\\nonce.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\ajax\\var\\nonce.js"
+    },
+    {
+      "Id": "C:\\Projects\\Home\\MaintenanceFilter\\Example\\wwwroot\\lib\\jquery\\src\\ajax\\var\\rquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\ajax\\var\\rquery.js"
+    },
+    {
+      "Id": "C:\\Projects\\Home\\MaintenanceFilter\\Example\\wwwroot\\lib\\jquery\\src\\ajax\\xhr.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\ajax\\xhr.js"
+    },
+    {
+      "Id": "C:\\Projects\\Home\\MaintenanceFilter\\Example\\wwwroot\\lib\\jquery\\src\\attributes.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\attributes.js"
+    },
+    {
+      "Id": "C:\\Projects\\Home\\MaintenanceFilter\\Example\\wwwroot\\lib\\jquery\\src\\attributes\\attr.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\attributes\\attr.js"
+    },
+    {
+      "Id": "C:\\Projects\\Home\\MaintenanceFilter\\Example\\wwwroot\\lib\\jquery\\src\\attributes\\classes.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\attributes\\classes.js"
+    },
+    {
+      "Id": "C:\\Projects\\Home\\MaintenanceFilter\\Example\\wwwroot\\lib\\jquery\\src\\attributes\\prop.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\attributes\\prop.js"
+    },
+    {
+      "Id": "C:\\Projects\\Home\\MaintenanceFilter\\Example\\wwwroot\\lib\\jquery\\src\\attributes\\support.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\attributes\\support.js"
+    },
+    {
+      "Id": "C:\\Projects\\Home\\MaintenanceFilter\\Example\\wwwroot\\lib\\jquery\\src\\attributes\\val.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\attributes\\val.js"
+    },
+    {
+      "Id": "C:\\Projects\\Home\\MaintenanceFilter\\Example\\wwwroot\\lib\\jquery\\src\\callbacks.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\callbacks.js"
+    },
+    {
+      "Id": "C:\\Projects\\Home\\MaintenanceFilter\\Example\\wwwroot\\lib\\jquery\\src\\core.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\core.js"
+    },
+    {
+      "Id": "C:\\Projects\\Home\\MaintenanceFilter\\Example\\wwwroot\\lib\\jquery\\src\\core\\access.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\core\\access.js"
+    },
+    {
+      "Id": "C:\\Projects\\Home\\MaintenanceFilter\\Example\\wwwroot\\lib\\jquery\\src\\core\\init.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\core\\init.js"
+    },
+    {
+      "Id": "C:\\Projects\\Home\\MaintenanceFilter\\Example\\wwwroot\\lib\\jquery\\src\\core\\parseHTML.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\core\\parseHTML.js"
+    },
+    {
+      "Id": "C:\\Projects\\Home\\MaintenanceFilter\\Example\\wwwroot\\lib\\jquery\\src\\core\\ready.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\core\\ready.js"
+    },
+    {
+      "Id": "C:\\Projects\\Home\\MaintenanceFilter\\Example\\wwwroot\\lib\\jquery\\src\\core\\var\\rsingleTag.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\core\\var\\rsingleTag.js"
+    },
+    {
+      "Id": "C:\\Projects\\Home\\MaintenanceFilter\\Example\\wwwroot\\lib\\jquery\\src\\css.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\css.js"
+    },
+    {
+      "Id": "C:\\Projects\\Home\\MaintenanceFilter\\Example\\wwwroot\\lib\\jquery\\src\\css\\addGetHookIf.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\css\\addGetHookIf.js"
+    },
+    {
+      "Id": "C:\\Projects\\Home\\MaintenanceFilter\\Example\\wwwroot\\lib\\jquery\\src\\css\\adjustCSS.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\css\\adjustCSS.js"
+    },
+    {
+      "Id": "C:\\Projects\\Home\\MaintenanceFilter\\Example\\wwwroot\\lib\\jquery\\src\\css\\curCSS.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\css\\curCSS.js"
+    },
+    {
+      "Id": "C:\\Projects\\Home\\MaintenanceFilter\\Example\\wwwroot\\lib\\jquery\\src\\css\\defaultDisplay.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\css\\defaultDisplay.js"
+    },
+    {
+      "Id": "C:\\Projects\\Home\\MaintenanceFilter\\Example\\wwwroot\\lib\\jquery\\src\\css\\hiddenVisibleSelectors.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\css\\hiddenVisibleSelectors.js"
+    },
+    {
+      "Id": "C:\\Projects\\Home\\MaintenanceFilter\\Example\\wwwroot\\lib\\jquery\\src\\css\\showHide.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\css\\showHide.js"
+    },
+    {
+      "Id": "C:\\Projects\\Home\\MaintenanceFilter\\Example\\wwwroot\\lib\\jquery\\src\\css\\support.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\css\\support.js"
+    },
+    {
+      "Id": "C:\\Projects\\Home\\MaintenanceFilter\\Example\\wwwroot\\lib\\jquery\\src\\css\\var\\cssExpand.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\css\\var\\cssExpand.js"
+    },
+    {
+      "Id": "C:\\Projects\\Home\\MaintenanceFilter\\Example\\wwwroot\\lib\\jquery\\src\\css\\var\\getStyles.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\css\\var\\getStyles.js"
+    },
+    {
+      "Id": "C:\\Projects\\Home\\MaintenanceFilter\\Example\\wwwroot\\lib\\jquery\\src\\css\\var\\isHidden.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\css\\var\\isHidden.js"
+    },
+    {
+      "Id": "C:\\Projects\\Home\\MaintenanceFilter\\Example\\wwwroot\\lib\\jquery\\src\\css\\var\\rmargin.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\css\\var\\rmargin.js"
+    },
+    {
+      "Id": "C:\\Projects\\Home\\MaintenanceFilter\\Example\\wwwroot\\lib\\jquery\\src\\css\\var\\rnumnonpx.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\css\\var\\rnumnonpx.js"
+    },
+    {
+      "Id": "C:\\Projects\\Home\\MaintenanceFilter\\Example\\wwwroot\\lib\\jquery\\src\\css\\var\\swap.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\css\\var\\swap.js"
+    },
+    {
+      "Id": "C:\\Projects\\Home\\MaintenanceFilter\\Example\\wwwroot\\lib\\jquery\\src\\data.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\data.js"
+    },
+    {
+      "Id": "C:\\Projects\\Home\\MaintenanceFilter\\Example\\wwwroot\\lib\\jquery\\src\\data\\Data.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\data\\Data.js"
+    },
+    {
+      "Id": "C:\\Projects\\Home\\MaintenanceFilter\\Example\\wwwroot\\lib\\jquery\\src\\data\\var\\acceptData.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\data\\var\\acceptData.js"
+    },
+    {
+      "Id": "C:\\Projects\\Home\\MaintenanceFilter\\Example\\wwwroot\\lib\\jquery\\src\\data\\var\\dataPriv.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\data\\var\\dataPriv.js"
+    },
+    {
+      "Id": "C:\\Projects\\Home\\MaintenanceFilter\\Example\\wwwroot\\lib\\jquery\\src\\data\\var\\dataUser.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\data\\var\\dataUser.js"
+    },
+    {
+      "Id": "C:\\Projects\\Home\\MaintenanceFilter\\Example\\wwwroot\\lib\\jquery\\src\\deferred.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\deferred.js"
+    },
+    {
+      "Id": "C:\\Projects\\Home\\MaintenanceFilter\\Example\\wwwroot\\lib\\jquery\\src\\deprecated.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\deprecated.js"
+    },
+    {
+      "Id": "C:\\Projects\\Home\\MaintenanceFilter\\Example\\wwwroot\\lib\\jquery\\src\\dimensions.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\dimensions.js"
+    },
+    {
+      "Id": "C:\\Projects\\Home\\MaintenanceFilter\\Example\\wwwroot\\lib\\jquery\\src\\effects.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\effects.js"
+    },
+    {
+      "Id": "C:\\Projects\\Home\\MaintenanceFilter\\Example\\wwwroot\\lib\\jquery\\src\\effects\\Tween.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\effects\\Tween.js"
+    },
+    {
+      "Id": "C:\\Projects\\Home\\MaintenanceFilter\\Example\\wwwroot\\lib\\jquery\\src\\effects\\animatedSelector.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\effects\\animatedSelector.js"
+    },
+    {
+      "Id": "C:\\Projects\\Home\\MaintenanceFilter\\Example\\wwwroot\\lib\\jquery\\src\\event.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\event.js"
+    },
+    {
+      "Id": "C:\\Projects\\Home\\MaintenanceFilter\\Example\\wwwroot\\lib\\jquery\\src\\event\\ajax.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\event\\ajax.js"
+    },
+    {
+      "Id": "C:\\Projects\\Home\\MaintenanceFilter\\Example\\wwwroot\\lib\\jquery\\src\\event\\alias.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\event\\alias.js"
+    },
+    {
+      "Id": "C:\\Projects\\Home\\MaintenanceFilter\\Example\\wwwroot\\lib\\jquery\\src\\event\\focusin.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\event\\focusin.js"
+    },
+    {
+      "Id": "C:\\Projects\\Home\\MaintenanceFilter\\Example\\wwwroot\\lib\\jquery\\src\\event\\support.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\event\\support.js"
+    },
+    {
+      "Id": "C:\\Projects\\Home\\MaintenanceFilter\\Example\\wwwroot\\lib\\jquery\\src\\event\\trigger.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\event\\trigger.js"
+    },
+    {
+      "Id": "C:\\Projects\\Home\\MaintenanceFilter\\Example\\wwwroot\\lib\\jquery\\src\\exports\\amd.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\exports\\amd.js"
+    },
+    {
+      "Id": "C:\\Projects\\Home\\MaintenanceFilter\\Example\\wwwroot\\lib\\jquery\\src\\exports\\global.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\exports\\global.js"
+    },
+    {
+      "Id": "C:\\Projects\\Home\\MaintenanceFilter\\Example\\wwwroot\\lib\\jquery\\src\\intro.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\intro.js"
+    },
+    {
+      "Id": "C:\\Projects\\Home\\MaintenanceFilter\\Example\\wwwroot\\lib\\jquery\\src\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\jquery.js"
+    },
+    {
+      "Id": "C:\\Projects\\Home\\MaintenanceFilter\\Example\\wwwroot\\lib\\jquery\\src\\manipulation.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\manipulation.js"
+    },
+    {
+      "Id": "C:\\Projects\\Home\\MaintenanceFilter\\Example\\wwwroot\\lib\\jquery\\src\\manipulation\\_evalUrl.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\manipulation\\_evalUrl.js"
+    },
+    {
+      "Id": "C:\\Projects\\Home\\MaintenanceFilter\\Example\\wwwroot\\lib\\jquery\\src\\manipulation\\buildFragment.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\manipulation\\buildFragment.js"
+    },
+    {
+      "Id": "C:\\Projects\\Home\\MaintenanceFilter\\Example\\wwwroot\\lib\\jquery\\src\\manipulation\\getAll.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\manipulation\\getAll.js"
+    },
+    {
+      "Id": "C:\\Projects\\Home\\MaintenanceFilter\\Example\\wwwroot\\lib\\jquery\\src\\manipulation\\setGlobalEval.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\manipulation\\setGlobalEval.js"
+    },
+    {
+      "Id": "C:\\Projects\\Home\\MaintenanceFilter\\Example\\wwwroot\\lib\\jquery\\src\\manipulation\\support.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\manipulation\\support.js"
+    },
+    {
+      "Id": "C:\\Projects\\Home\\MaintenanceFilter\\Example\\wwwroot\\lib\\jquery\\src\\manipulation\\var\\rcheckableType.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\manipulation\\var\\rcheckableType.js"
+    },
+    {
+      "Id": "C:\\Projects\\Home\\MaintenanceFilter\\Example\\wwwroot\\lib\\jquery\\src\\manipulation\\var\\rscriptType.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\manipulation\\var\\rscriptType.js"
+    },
+    {
+      "Id": "C:\\Projects\\Home\\MaintenanceFilter\\Example\\wwwroot\\lib\\jquery\\src\\manipulation\\var\\rtagName.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\manipulation\\var\\rtagName.js"
+    },
+    {
+      "Id": "C:\\Projects\\Home\\MaintenanceFilter\\Example\\wwwroot\\lib\\jquery\\src\\manipulation\\wrapMap.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\manipulation\\wrapMap.js"
+    },
+    {
+      "Id": "C:\\Projects\\Home\\MaintenanceFilter\\Example\\wwwroot\\lib\\jquery\\src\\offset.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\offset.js"
+    },
+    {
+      "Id": "C:\\Projects\\Home\\MaintenanceFilter\\Example\\wwwroot\\lib\\jquery\\src\\outro.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\outro.js"
+    },
+    {
+      "Id": "C:\\Projects\\Home\\MaintenanceFilter\\Example\\wwwroot\\lib\\jquery\\src\\queue.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\queue.js"
+    },
+    {
+      "Id": "C:\\Projects\\Home\\MaintenanceFilter\\Example\\wwwroot\\lib\\jquery\\src\\queue\\delay.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\queue\\delay.js"
+    },
+    {
+      "Id": "C:\\Projects\\Home\\MaintenanceFilter\\Example\\wwwroot\\lib\\jquery\\src\\selector-native.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\selector-native.js"
+    },
+    {
+      "Id": "C:\\Projects\\Home\\MaintenanceFilter\\Example\\wwwroot\\lib\\jquery\\src\\selector-sizzle.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\selector-sizzle.js"
+    },
+    {
+      "Id": "C:\\Projects\\Home\\MaintenanceFilter\\Example\\wwwroot\\lib\\jquery\\src\\selector.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\selector.js"
+    },
+    {
+      "Id": "C:\\Projects\\Home\\MaintenanceFilter\\Example\\wwwroot\\lib\\jquery\\src\\serialize.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\serialize.js"
+    },
+    {
+      "Id": "C:\\Projects\\Home\\MaintenanceFilter\\Example\\wwwroot\\lib\\jquery\\src\\traversing.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\traversing.js"
+    },
+    {
+      "Id": "C:\\Projects\\Home\\MaintenanceFilter\\Example\\wwwroot\\lib\\jquery\\src\\traversing\\findFilter.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\traversing\\findFilter.js"
+    },
+    {
+      "Id": "C:\\Projects\\Home\\MaintenanceFilter\\Example\\wwwroot\\lib\\jquery\\src\\traversing\\var\\dir.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\traversing\\var\\dir.js"
+    },
+    {
+      "Id": "C:\\Projects\\Home\\MaintenanceFilter\\Example\\wwwroot\\lib\\jquery\\src\\traversing\\var\\rneedsContext.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\traversing\\var\\rneedsContext.js"
+    },
+    {
+      "Id": "C:\\Projects\\Home\\MaintenanceFilter\\Example\\wwwroot\\lib\\jquery\\src\\traversing\\var\\siblings.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\traversing\\var\\siblings.js"
+    },
+    {
+      "Id": "C:\\Projects\\Home\\MaintenanceFilter\\Example\\wwwroot\\lib\\jquery\\src\\var\\arr.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\var\\arr.js"
+    },
+    {
+      "Id": "C:\\Projects\\Home\\MaintenanceFilter\\Example\\wwwroot\\lib\\jquery\\src\\var\\class2type.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\var\\class2type.js"
+    },
+    {
+      "Id": "C:\\Projects\\Home\\MaintenanceFilter\\Example\\wwwroot\\lib\\jquery\\src\\var\\concat.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\var\\concat.js"
+    },
+    {
+      "Id": "C:\\Projects\\Home\\MaintenanceFilter\\Example\\wwwroot\\lib\\jquery\\src\\var\\document.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\var\\document.js"
+    },
+    {
+      "Id": "C:\\Projects\\Home\\MaintenanceFilter\\Example\\wwwroot\\lib\\jquery\\src\\var\\documentElement.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\var\\documentElement.js"
+    },
+    {
+      "Id": "C:\\Projects\\Home\\MaintenanceFilter\\Example\\wwwroot\\lib\\jquery\\src\\var\\hasOwn.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\var\\hasOwn.js"
+    },
+    {
+      "Id": "C:\\Projects\\Home\\MaintenanceFilter\\Example\\wwwroot\\lib\\jquery\\src\\var\\indexOf.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\var\\indexOf.js"
+    },
+    {
+      "Id": "C:\\Projects\\Home\\MaintenanceFilter\\Example\\wwwroot\\lib\\jquery\\src\\var\\pnum.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\var\\pnum.js"
+    },
+    {
+      "Id": "C:\\Projects\\Home\\MaintenanceFilter\\Example\\wwwroot\\lib\\jquery\\src\\var\\push.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\var\\push.js"
+    },
+    {
+      "Id": "C:\\Projects\\Home\\MaintenanceFilter\\Example\\wwwroot\\lib\\jquery\\src\\var\\rcssNum.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\var\\rcssNum.js"
+    },
+    {
+      "Id": "C:\\Projects\\Home\\MaintenanceFilter\\Example\\wwwroot\\lib\\jquery\\src\\var\\rnotwhite.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\var\\rnotwhite.js"
+    },
+    {
+      "Id": "C:\\Projects\\Home\\MaintenanceFilter\\Example\\wwwroot\\lib\\jquery\\src\\var\\slice.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\var\\slice.js"
+    },
+    {
+      "Id": "C:\\Projects\\Home\\MaintenanceFilter\\Example\\wwwroot\\lib\\jquery\\src\\var\\support.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\var\\support.js"
+    },
+    {
+      "Id": "C:\\Projects\\Home\\MaintenanceFilter\\Example\\wwwroot\\lib\\jquery\\src\\var\\toString.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\var\\toString.js"
+    },
+    {
+      "Id": "C:\\Projects\\Home\\MaintenanceFilter\\Example\\wwwroot\\lib\\jquery\\src\\wrap.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\wrap.js"
+    },
+    {
+      "Id": "C:\\Projects\\Home\\MaintenanceFilter\\Example\\wwwroot\\lib\\toastr\\.bower.json",
+      "PackagePath": "staticwebassets\\lib\\toastr\\.bower.json"
+    },
+    {
+      "Id": "C:\\Projects\\Home\\MaintenanceFilter\\Example\\wwwroot\\lib\\toastr\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\toastr"
+    },
+    {
+      "Id": "C:\\Projects\\Home\\MaintenanceFilter\\Example\\wwwroot\\lib\\toastr\\README.md",
+      "PackagePath": "staticwebassets\\lib\\toastr\\README.md"
+    },
+    {
+      "Id": "C:\\Projects\\Home\\MaintenanceFilter\\Example\\wwwroot\\lib\\toastr\\bower.json",
+      "PackagePath": "staticwebassets\\lib\\toastr\\bower.json"
+    },
+    {
+      "Id": "C:\\Projects\\Home\\MaintenanceFilter\\Example\\wwwroot\\lib\\toastr\\toastr.css",
+      "PackagePath": "staticwebassets\\lib\\toastr\\toastr.css"
+    },
+    {
+      "Id": "C:\\Projects\\Home\\MaintenanceFilter\\Example\\wwwroot\\lib\\toastr\\toastr.js",
+      "PackagePath": "staticwebassets\\lib\\toastr\\toastr.js"
+    },
+    {
+      "Id": "C:\\Projects\\Home\\MaintenanceFilter\\Example\\wwwroot\\lib\\toastr\\toastr.js.map",
+      "PackagePath": "staticwebassets\\lib\\toastr\\toastr.js.map"
+    },
+    {
+      "Id": "C:\\Projects\\Home\\MaintenanceFilter\\Example\\wwwroot\\lib\\toastr\\toastr.less",
+      "PackagePath": "staticwebassets\\lib\\toastr\\toastr.less"
+    },
+    {
+      "Id": "C:\\Projects\\Home\\MaintenanceFilter\\Example\\wwwroot\\lib\\toastr\\toastr.min.css",
+      "PackagePath": "staticwebassets\\lib\\toastr\\toastr.min.css"
+    },
+    {
+      "Id": "C:\\Projects\\Home\\MaintenanceFilter\\Example\\wwwroot\\lib\\toastr\\toastr.min.js",
+      "PackagePath": "staticwebassets\\lib\\toastr\\toastr.min.js"
+    },
+    {
+      "Id": "C:\\Projects\\Home\\MaintenanceFilter\\Example\\wwwroot\\lib\\toastr\\toastr.scss",
+      "PackagePath": "staticwebassets\\lib\\toastr\\toastr.scss"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Example.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Example.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.Example.props",
+      "PackagePath": "build\\Example.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Example.props",
+      "PackagePath": "buildMultiTargeting\\Example.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.Example.props",
+      "PackagePath": "buildTransitive\\Example.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

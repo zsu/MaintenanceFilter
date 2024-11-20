@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>MaintenanceFilter</id>
+    <version>2.0.0</version>
+    <title>MaintenanceFilter</title>
+    <authors>Zhicheng Su</authors>
+    <licenseUrl>http://www.opensource.org/licenses/mit-license.php</licenseUrl>
+    <projectUrl>https://github.com/zsu/MaintenanceFilter</projectUrl>
+    <description>An asp.net core action filter library for maintenance message handling.</description>
+    <copyright>Copyright 2017 Zhicheng Su</copyright>
+    <tags>asp.net core, action filter, site maintenance</tags>
+    <repository type="git" url="https://github.com/zsu/MaintenanceFilter" commit="61ab49f01716b81960a9102396414d2eef00ceb7" />
+    <dependencies>
+      <group targetFramework="net6.0">
+        <dependency id="SessionMessage.Core" version="3.0.0" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+    <frameworkReferences>
+      <group targetFramework="net6.0">
+        <frameworkReference name="Microsoft.AspNetCore.App" />
+      </group>
+    </frameworkReferences>
+  </metadata>
+  <files>
+    <file src="C:\Projects\Home\MaintenanceFilter\MaintenanceActionFilter\bin\Debug\net6.0\MaintenanceFilter.dll" target="lib\net6.0\MaintenanceFilter.dll" />
+  </files>
+</package>
