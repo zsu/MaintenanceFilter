@@ -6,7 +6,7 @@
 
   <ItemGroup>
     <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="9.0.0" />
-    <PackageReference Include="SessionMessage.UI" Version="3.0.0" />
+    <PackageReference Include="SessionMessage.UI" Version="4.0.0" />
   </ItemGroup>
 
   <ItemGroup>
