@@ -3,7 +3,7 @@
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
     <PackageId>MaintenanceFilter</PackageId>
-    <PackageVersion>3.0.0</PackageVersion>
+    <PackageVersion>3.1.0</PackageVersion>
     <Authors>Zhicheng Su</Authors>
     <Title>MaintenanceFilter</Title>
     <Description>An asp.net core action filter library for maintenance message handling.</Description>
@@ -19,6 +19,8 @@
 		<PackageReference Include="Microsoft.AspNetCore.Mvc" Version="2.2.0" />
 		<PackageReference Include="SessionMessage.Core" Version="4.0.0" />
 		<PackageReference Include="System.Net.Http" Version="4.3.4" />
+    <PackageReference Include="System.Text.RegularExpressions" Version="4.3.1" />
+    <PackageReference Include="System.Security.Cryptography.Xml" Version="4.7.1" />
 	</ItemGroup>
 
 </Project>
